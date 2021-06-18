@@ -1,37 +1,170 @@
-## Welcome to GitHub Pages
+# CDC記者會-需校正字幕影片清單
 
-You can use the [editor on GitHub](https://github.com/tynnie/CDC_video_list_without_subtitles/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tynnie/CDC_video_list_without_subtitles/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| link | SRT |
+|---------------------------------------------|-------------|
+| https://www.youtube.com/watch?v=YGNjNZpMbyM | [YGNjNZpMbyM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/YGNjNZpMbyM.T00096481.caption.srt) |
+| https://www.youtube.com/watch?v=6f0hBbYPRpo | [6f0hBbYPRpo](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/6f0hBbYPRpo.T00096485.caption.srt) |
+| https://www.youtube.com/watch?v=31jU3ns3ddw | [31jU3ns3ddw](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/31jU3ns3ddw.T00096472.caption.srt) |
+| https://www.youtube.com/watch?v=LJpYCkOOCpY | [LJpYCkOOCpY](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/LJpYCkOOCpY.T00096418.caption.srt) |
+| https://www.youtube.com/watch?v=DWDmb4IZOA0 | [DWDmb4IZOA0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/DWDmb4IZOA0.T00096482.caption.srt) |
+| https://www.youtube.com/watch?v=xBSfE3XZ3Hs | [xBSfE3XZ3Hs](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/xBSfE3XZ3Hs.T00096368.caption.srt) |
+| https://www.youtube.com/watch?v=omjq2cf6fVg | [omjq2cf6fVg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/omjq2cf6fVg.T00096376.caption.srt) |
+| https://www.youtube.com/watch?v=__I0BiTe6Us | [__I0BiTe6Us](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/__I0BiTe6Us.T00096379.caption.srt) |
+| https://www.youtube.com/watch?v=Ab9RawKUmUw | [Ab9RawKUmUw](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Ab9RawKUmUw.T00096399.caption.srt) |
+| https://www.youtube.com/watch?v=T8QD3v2puxQ | [T8QD3v2puxQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/T8QD3v2puxQ.T00096351.caption.srt) |
+| https://www.youtube.com/watch?v=HhxJOIHq25E | [HhxJOIHq25E](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/HhxJOIHq25E.T00096434.caption.srt) |
+| https://www.youtube.com/watch?v=lJTUBt3kXbY | [lJTUBt3kXbY](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/lJTUBt3kXbY.T00096381.caption.srt) |
+| https://www.youtube.com/watch?v=nvT5d65GYK0 | [nvT5d65GYK0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/nvT5d65GYK0.T00096511.caption.srt) |
+| https://www.youtube.com/watch?v=JhHlqeM0atM | [JhHlqeM0atM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/JhHlqeM0atM.T00096484.caption.srt) |
+| https://www.youtube.com/watch?v=DIRLYs44g9k | [DIRLYs44g9k](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/DIRLYs44g9k.T00096371.caption.srt) |
+| https://www.youtube.com/watch?v=Aj-D5FnTu0I | [Aj-D5FnTu0I](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Aj-D5FnTu0I.T00096453.caption.srt) |
+| https://www.youtube.com/watch?v=ErGCmBC24Mk | [ErGCmBC24Mk](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ErGCmBC24Mk.T00096415.caption.srt) |
+| https://www.youtube.com/watch?v=CimVYdoWmtE | [CimVYdoWmtE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/CimVYdoWmtE.T00096442.caption.srt) |
+| https://www.youtube.com/watch?v=HMhzXBsdh2Q | [HMhzXBsdh2Q](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/HMhzXBsdh2Q.T00096522.caption.srt) |
+| https://www.youtube.com/watch?v=xRgir3UkwUg | [xRgir3UkwUg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/xRgir3UkwUg.T00096417.caption.srt) |
+| https://www.youtube.com/watch?v=fP88r_YSh_0 | [fP88r_YSh_0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/fP88r_YSh_0.T00096493.caption.srt) |
+| https://www.youtube.com/watch?v=43xPMaylHqE | [43xPMaylHqE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/43xPMaylHqE.T00096382.caption.srt) |
+| https://www.youtube.com/watch?v=iOsFmMMlxoA | [iOsFmMMlxoA](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/iOsFmMMlxoA.T00096521.caption.srt) |
+| https://www.youtube.com/watch?v=bCPLKgdOHYQ | [bCPLKgdOHYQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/bCPLKgdOHYQ.T00096333.caption.srt) |
+| https://www.youtube.com/watch?v=HlBiVdVOuO4 | [HlBiVdVOuO4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/HlBiVdVOuO4.T00096490.caption.srt) |
+| https://www.youtube.com/watch?v=7zqc0yFDd2U | [7zqc0yFDd2U](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/7zqc0yFDd2U.T00096441.caption.srt) |
+| https://www.youtube.com/watch?v=sV2LVsenh_c | [sV2LVsenh_c](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/sV2LVsenh_c.T00096424.caption.srt) |
+| https://www.youtube.com/watch?v=zT68PxGsYpo | [zT68PxGsYpo](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/zT68PxGsYpo.T00096367.caption.srt) |
+| https://www.youtube.com/watch?v=MaR3vlTBWUg | [MaR3vlTBWUg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/MaR3vlTBWUg.T00096413.caption.srt) |
+| https://www.youtube.com/watch?v=YUFpvgdg6lg | [YUFpvgdg6lg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/YUFpvgdg6lg.T00096372.caption.srt) |
+| https://www.youtube.com/watch?v=zpfHbbW-D5U | [zpfHbbW-D5U](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/zpfHbbW-D5U.T00096438.caption.srt) |
+| https://www.youtube.com/watch?v=-8g79XwfX5Q | [-8g79XwfX5Q](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/-8g79XwfX5Q.T00096439.caption.srt) |
+| https://www.youtube.com/watch?v=loiDkBr4xs0 | [loiDkBr4xs0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/loiDkBr4xs0.T00096299.caption.srt) |
+| https://www.youtube.com/watch?v=r1DtR8J2mhQ | [r1DtR8J2mhQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/r1DtR8J2mhQ.T00096369.caption.srt) |
+| https://www.youtube.com/watch?v=2AcJf0B4bHU | [2AcJf0B4bHU](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/2AcJf0B4bHU.T00096401.caption.srt) |
+| https://www.youtube.com/watch?v=Bxsw8xnOXc4 | [Bxsw8xnOXc4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Bxsw8xnOXc4.T00096478.caption.srt) |
+| https://www.youtube.com/watch?v=ywTXQWza4T4 | [ywTXQWza4T4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ywTXQWza4T4.T00096465.caption.srt) |
+| https://www.youtube.com/watch?v=ndEtMzXcswU | [ndEtMzXcswU](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ndEtMzXcswU.T00096464.caption.srt) |
+| https://www.youtube.com/watch?v=cBdPsHpOkG4 | [cBdPsHpOkG4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/cBdPsHpOkG4.T00096377.caption.srt) |
+| https://www.youtube.com/watch?v=VwZQwYkWkGk | [VwZQwYkWkGk](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/VwZQwYkWkGk.T00096498.caption.srt) |
+| https://www.youtube.com/watch?v=Mi8LYCz4bQM | [Mi8LYCz4bQM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Mi8LYCz4bQM.T00096326.caption.srt) |
+| https://www.youtube.com/watch?v=CTv7ELuxOn4 | [CTv7ELuxOn4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/CTv7ELuxOn4.T00096408.caption.srt) |
+| https://www.youtube.com/watch?v=wtV5sMQk9uM | [wtV5sMQk9uM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/wtV5sMQk9uM.T00096499.caption.srt) |
+| https://www.youtube.com/watch?v=99Kkno_D36I | [99Kkno_D36I](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/99Kkno_D36I.T00096349.caption.srt) |
+| https://www.youtube.com/watch?v=fQ31BfaRwo8 | [fQ31BfaRwo8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/fQ31BfaRwo8.T00096425.caption.srt) |
+| https://www.youtube.com/watch?v=72nVIuhvYQQ | [72nVIuhvYQQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/72nVIuhvYQQ.T00096397.caption.srt) |
+| https://www.youtube.com/watch?v=RRRKHm1fRuk | [RRRKHm1fRuk](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/RRRKHm1fRuk.T00096360.caption.srt) |
+| https://www.youtube.com/watch?v=l5eSxAqB6pE | [l5eSxAqB6pE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/l5eSxAqB6pE.T00096473.caption.srt) |
+| https://www.youtube.com/watch?v=dXKJI__D6sE | [dXKJI__D6sE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/dXKJI__D6sE.T00096353.caption.srt) |
+| https://www.youtube.com/watch?v=PsfshB9rQQE | [PsfshB9rQQE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/PsfshB9rQQE.T00096515.caption.srt) |
+| https://www.youtube.com/watch?v=ZmjRoWVZDd8 | [ZmjRoWVZDd8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ZmjRoWVZDd8.T00096497.caption.srt) |
+| https://www.youtube.com/watch?v=SEeyQaDV8JE | [SEeyQaDV8JE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/SEeyQaDV8JE.T00096398.caption.srt) |
+| https://www.youtube.com/watch?v=CF1ElF-uxz4 | [CF1ElF-uxz4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/CF1ElF-uxz4.T00096347.caption.srt) |
+| https://www.youtube.com/watch?v=6wJqz_aRQBs | [6wJqz_aRQBs](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/6wJqz_aRQBs.T00096510.caption.srt) |
+| https://www.youtube.com/watch?v=46LZh0f7LGQ | [46LZh0f7LGQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/46LZh0f7LGQ.T00096500.caption.srt) |
+| https://www.youtube.com/watch?v=Vsslivbu4Pk | [Vsslivbu4Pk](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Vsslivbu4Pk.T00096505.caption.srt) |
+| https://www.youtube.com/watch?v=AubyZQDBUls | [AubyZQDBUls](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/AubyZQDBUls.T00096507.caption.srt) |
+| https://www.youtube.com/watch?v=7S3i0FoYOg0 | [7S3i0FoYOg0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/7S3i0FoYOg0.T00096461.caption.srt) |
+| https://www.youtube.com/watch?v=pKSbkBB3sg4 | [pKSbkBB3sg4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/pKSbkBB3sg4.T00096440.caption.srt) |
+| https://www.youtube.com/watch?v=LlHbmb70QdQ | [LlHbmb70QdQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/LlHbmb70QdQ.T00096402.caption.srt) |
+| https://www.youtube.com/watch?v=aumtFNu693o | [aumtFNu693o](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/aumtFNu693o.T00096420.caption.srt) |
+| https://www.youtube.com/watch?v=FnQUDam5UU4 | [FnQUDam5UU4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/FnQUDam5UU4.T00096489.caption.srt) |
+| https://www.youtube.com/watch?v=8FmHi-vYNo8 | [8FmHi-vYNo8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/8FmHi-vYNo8.T00096366.caption.srt) |
+| https://www.youtube.com/watch?v=1ge65Y-s6uw | [1ge65Y-s6uw](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/1ge65Y-s6uw.T00096466.caption.srt) |
+| https://www.youtube.com/watch?v=2DVZGbKUZ6o | [2DVZGbKUZ6o](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/2DVZGbKUZ6o.T00096454.caption.srt) |
+| https://www.youtube.com/watch?v=2dU2-Otgab4 | [2dU2-Otgab4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/2dU2-Otgab4.T00096455.caption.srt) |
+| https://www.youtube.com/watch?v=PZG_2fcBRKs | [PZG_2fcBRKs](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/PZG_2fcBRKs.T00096448.caption.srt) |
+| https://www.youtube.com/watch?v=JQOD0aPV2nQ | [JQOD0aPV2nQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/JQOD0aPV2nQ.T00096354.caption.srt) |
+| https://www.youtube.com/watch?v=akuGLC_bStM | [akuGLC_bStM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/akuGLC_bStM.T00096426.caption.srt) |
+| https://www.youtube.com/watch?v=FbkuxQFI6Vs | [FbkuxQFI6Vs](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/FbkuxQFI6Vs.T00096409.caption.srt) |
+| https://www.youtube.com/watch?v=AipiHMu0AhQ | [AipiHMu0AhQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/AipiHMu0AhQ.T00096254.caption.srt) |
+| https://www.youtube.com/watch?v=zTpj3gFBDig | [zTpj3gFBDig](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/zTpj3gFBDig.T00096436.caption.srt) |
+| https://www.youtube.com/watch?v=97WyCJHLM9Q | [97WyCJHLM9Q](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/97WyCJHLM9Q.T00096486.caption.srt) |
+| https://www.youtube.com/watch?v=glkbK2XA2tQ | [glkbK2XA2tQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/glkbK2XA2tQ.T00096502.caption.srt) |
+| https://www.youtube.com/watch?v=jBaYNWgjLlA | [jBaYNWgjLlA](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/jBaYNWgjLlA.T00096447.caption.srt) |
+| https://www.youtube.com/watch?v=UDuwi_8_IGI | [UDuwi_8_IGI](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/UDuwi_8_IGI.T00096431.caption.srt) |
+| https://www.youtube.com/watch?v=DIMJ_-YSkNI | [DIMJ_-YSkNI](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/DIMJ_-YSkNI.T00096370.caption.srt) |
+| https://www.youtube.com/watch?v=5bhRXEV0XBU | [5bhRXEV0XBU](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/5bhRXEV0XBU.T00096457.caption.srt) |
+| https://www.youtube.com/watch?v=d1zt7WNvPW0 | [d1zt7WNvPW0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/d1zt7WNvPW0.T00096406.caption.srt) |
+| https://www.youtube.com/watch?v=Q88PTsjgWmY | [Q88PTsjgWmY](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Q88PTsjgWmY.T00096513.caption.srt) |
+| https://www.youtube.com/watch?v=pjZ9sgeAjdI | [pjZ9sgeAjdI](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/pjZ9sgeAjdI.T00096495.caption.srt) |
+| https://www.youtube.com/watch?v=x7uqmROLpAo | [x7uqmROLpAo](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/x7uqmROLpAo.T00096422.caption.srt) |
+| https://www.youtube.com/watch?v=sKQEdtOupOQ | [sKQEdtOupOQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/sKQEdtOupOQ.T00096435.caption.srt) |
+| https://www.youtube.com/watch?v=YrDkkdDVcvQ | [YrDkkdDVcvQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/YrDkkdDVcvQ.T00096480.caption.srt) |
+| https://www.youtube.com/watch?v=IlHkmi7bWQ4 | [IlHkmi7bWQ4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/IlHkmi7bWQ4.T00096400.caption.srt) |
+| https://www.youtube.com/watch?v=s8T-AG4bqts | [s8T-AG4bqts](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/s8T-AG4bqts.T00096491.caption.srt) |
+| https://www.youtube.com/watch?v=itVxBCkP3-c | [itVxBCkP3-c](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/itVxBCkP3-c.T00096506.caption.srt) |
+| https://www.youtube.com/watch?v=iZGaYRbWoJI | [iZGaYRbWoJI](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/iZGaYRbWoJI.T00096362.caption.srt) |
+| https://www.youtube.com/watch?v=8k-ZHLvkWA4 | [8k-ZHLvkWA4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/8k-ZHLvkWA4.T00096517.caption.srt) |
+| https://www.youtube.com/watch?v=_ji4aD_5BhA | [_ji4aD_5BhA](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/_ji4aD_5BhA.T00096444.caption.srt) |
+| https://www.youtube.com/watch?v=RtIUm7oz8Nk | [RtIUm7oz8Nk](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/RtIUm7oz8Nk.T00096458.caption.srt) |
+| https://www.youtube.com/watch?v=Jr_UcWfoUFY | [Jr_UcWfoUFY](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Jr_UcWfoUFY.T00096462.caption.srt) |
+| https://www.youtube.com/watch?v=eWy6hKMYNNs | [eWy6hKMYNNs](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/eWy6hKMYNNs.T00096520.caption.srt) |
+| https://www.youtube.com/watch?v=SV33MFeq2a4 | [SV33MFeq2a4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/SV33MFeq2a4.T00096445.caption.srt) |
+| https://www.youtube.com/watch?v=_4lk5RvkheM | [_4lk5RvkheM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/_4lk5RvkheM.T00096519.caption.srt) |
+| https://www.youtube.com/watch?v=ooSV_DEULpE | [ooSV_DEULpE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ooSV_DEULpE.T00096463.caption.srt) |
+| https://www.youtube.com/watch?v=GfrIEhwPtow | [GfrIEhwPtow](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/GfrIEhwPtow.T00096375.caption.srt) |
+| https://www.youtube.com/watch?v=Ce3DJoHHsOM | [Ce3DJoHHsOM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Ce3DJoHHsOM.T00096383.caption.srt) |
+| https://www.youtube.com/watch?v=Me_HSgeQ3v4 | [Me_HSgeQ3v4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Me_HSgeQ3v4.T00096460.caption.srt) |
+| https://www.youtube.com/watch?v=ipv5JbRwnmE | [ipv5JbRwnmE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ipv5JbRwnmE.T00096348.caption.srt) |
+| https://www.youtube.com/watch?v=ZFzBojbEXg4 | [ZFzBojbEXg4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ZFzBojbEXg4.T00096503.caption.srt) |
+| https://www.youtube.com/watch?v=6sZ4jcZ36sg | [6sZ4jcZ36sg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/6sZ4jcZ36sg.T00096410.caption.srt) |
+| https://www.youtube.com/watch?v=647GBPWUfbE | [647GBPWUfbE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/647GBPWUfbE.T00096504.caption.srt) |
+| https://www.youtube.com/watch?v=5rbrpTU0kbk | [5rbrpTU0kbk](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/5rbrpTU0kbk.T00096488.caption.srt) |
+| https://www.youtube.com/watch?v=1XqIkWMU6Ug | [1XqIkWMU6Ug](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/1XqIkWMU6Ug.T00096433.caption.srt) |
+| https://www.youtube.com/watch?v=PzBBffiIM6A | [PzBBffiIM6A](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/PzBBffiIM6A.T00096380.caption.srt) |
+| https://www.youtube.com/watch?v=wMxSDNL5jr4 | [wMxSDNL5jr4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/wMxSDNL5jr4.T00096450.caption.srt) |
+| https://www.youtube.com/watch?v=5IdLndaC_NA | [5IdLndaC_NA](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/5IdLndaC_NA.T00096364.caption.srt) |
+| https://www.youtube.com/watch?v=OhhAFy6-S6M | [OhhAFy6-S6M](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/OhhAFy6-S6M.T00096352.caption.srt) |
+| https://www.youtube.com/watch?v=UGAMuMnHZfE | [UGAMuMnHZfE](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/UGAMuMnHZfE.T00096384.caption.srt) |
+| https://www.youtube.com/watch?v=elxjVP-k_u4 | [elxjVP-k_u4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/elxjVP-k_u4.T00096494.caption.srt) |
+| https://www.youtube.com/watch?v=AbITktnXjCw | [AbITktnXjCw](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/AbITktnXjCw.T00096416.caption.srt) |
+| https://www.youtube.com/watch?v=z05-Lt0eA7E | [z05-Lt0eA7E](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/z05-Lt0eA7E.T00096446.caption.srt) |
+| https://www.youtube.com/watch?v=nwPpPHwVxxI | [nwPpPHwVxxI](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/nwPpPHwVxxI.T00096432.caption.srt) |
+| https://www.youtube.com/watch?v=ugaqH6gjAhc | [ugaqH6gjAhc](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ugaqH6gjAhc.T00096419.caption.srt) |
+| https://www.youtube.com/watch?v=xGepbAa9Qp8 | [xGepbAa9Qp8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/xGepbAa9Qp8.T00096361.caption.srt) |
+| https://www.youtube.com/watch?v=2cRJ06GjwbA | [2cRJ06GjwbA](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/2cRJ06GjwbA.T00096363.caption.srt) |
+| https://www.youtube.com/watch?v=ZYcUE39fxK4 | [ZYcUE39fxK4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ZYcUE39fxK4.T00096334.caption.srt) |
+| https://www.youtube.com/watch?v=4RlZVEG7Au0 | [4RlZVEG7Au0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/4RlZVEG7Au0.T00096514.caption.srt) |
+| https://www.youtube.com/watch?v=hFyao5FBLMQ | [hFyao5FBLMQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/hFyao5FBLMQ.T00096429.caption.srt) |
+| https://www.youtube.com/watch?v=xT26bNnT_OY | [xT26bNnT_OY](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/xT26bNnT_OY.T00096479.caption.srt) |
+| https://www.youtube.com/watch?v=OdNa1zb38e0 | [OdNa1zb38e0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/OdNa1zb38e0.T00096374.caption.srt) |
+| https://www.youtube.com/watch?v=Z82WHX7qqZg | [Z82WHX7qqZg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Z82WHX7qqZg.T00096477.caption.srt) |
+| https://www.youtube.com/watch?v=ZHyinJro68s | [ZHyinJro68s](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ZHyinJro68s.T00096469.caption.srt) |
+| https://www.youtube.com/watch?v=HIUpT8Nw1_Y | [HIUpT8Nw1_Y](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/HIUpT8Nw1_Y.T00096475.caption.srt) |
+| https://www.youtube.com/watch?v=eMuJsRP4pXY | [eMuJsRP4pXY](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/eMuJsRP4pXY.T00096451.caption.srt) |
+| https://www.youtube.com/watch?v=_tymnj75Qaw | [_tymnj75Qaw](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/_tymnj75Qaw.T00096437.caption.srt) |
+| https://www.youtube.com/watch?v=6Oro3k3WJOM | [6Oro3k3WJOM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/6Oro3k3WJOM.T00096456.caption.srt) |
+| https://www.youtube.com/watch?v=VfVtjXQBzP0 | [VfVtjXQBzP0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/VfVtjXQBzP0.T00096405.caption.srt) |
+| https://www.youtube.com/watch?v=J4qD96gt31w | [J4qD96gt31w](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/J4qD96gt31w.T00096365.caption.srt) |
+| https://www.youtube.com/watch?v=pafFpTaP7mQ | [pafFpTaP7mQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/pafFpTaP7mQ.T00096492.caption.srt) |
+| https://www.youtube.com/watch?v=l1q6usKZwCU | [l1q6usKZwCU](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/l1q6usKZwCU.T00096403.caption.srt) |
+| https://www.youtube.com/watch?v=JCF40lZmnU8 | [JCF40lZmnU8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/JCF40lZmnU8.T00096449.caption.srt) |
+| https://www.youtube.com/watch?v=VGzskWYPavQ | [VGzskWYPavQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/VGzskWYPavQ.T00096427.caption.srt) |
+| https://www.youtube.com/watch?v=gfSMffnrH-w | [gfSMffnrH-w](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/gfSMffnrH-w.T00096476.caption.srt) |
+| https://www.youtube.com/watch?v=LPn08cF9rlQ | [LPn08cF9rlQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/LPn08cF9rlQ.T00096518.caption.srt) |
+| https://www.youtube.com/watch?v=7bdgugkm9OY | [7bdgugkm9OY](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/7bdgugkm9OY.T00096443.caption.srt) |
+| https://www.youtube.com/watch?v=HCycele4ArA | [HCycele4ArA](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/HCycele4ArA.T00096487.caption.srt) |
+| https://www.youtube.com/watch?v=Sk1laHW2CfI | [Sk1laHW2CfI](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Sk1laHW2CfI.T00096508.caption.srt) |
+| https://www.youtube.com/watch?v=ddpfFbEkxfA | [ddpfFbEkxfA](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ddpfFbEkxfA.T00096423.caption.srt) |
+| https://www.youtube.com/watch?v=D3VAUTCAFn4 | [D3VAUTCAFn4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/D3VAUTCAFn4.T00096501.caption.srt) |
+| https://www.youtube.com/watch?v=gUS7DEivSB4 | [gUS7DEivSB4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/gUS7DEivSB4.T00096414.caption.srt) |
+| https://www.youtube.com/watch?v=OSm6K27xWYQ | [OSm6K27xWYQ](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/OSm6K27xWYQ.T00096483.caption.srt) |
+| https://www.youtube.com/watch?v=Mq8wSPWcSyc | [Mq8wSPWcSyc](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Mq8wSPWcSyc.T00096512.caption.srt) |
+| https://www.youtube.com/watch?v=dfMX_kvMTR8 | [dfMX_kvMTR8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/dfMX_kvMTR8.T00096452.caption.srt) |
+| https://www.youtube.com/watch?v=HwWNgDg11vI | [HwWNgDg11vI](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/HwWNgDg11vI.T00096509.caption.srt) |
+| https://www.youtube.com/watch?v=Pzhu4J4Iu1M | [Pzhu4J4Iu1M](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Pzhu4J4Iu1M.T00096421.caption.srt) |
+| https://www.youtube.com/watch?v=sj69VUWyI_8 | [sj69VUWyI_8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/sj69VUWyI_8.T00096474.caption.srt) |
+| https://www.youtube.com/watch?v=x5ONNn--1is | [x5ONNn--1is](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/x5ONNn--1is.T00096373.caption.srt) |
+| https://www.youtube.com/watch?v=Xdq9WRIP81M | [Xdq9WRIP81M](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/Xdq9WRIP81M.T00096430.caption.srt) |
+| https://www.youtube.com/watch?v=x_D5yH8bGq0 | [x_D5yH8bGq0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/x_D5yH8bGq0.T00096516.caption.srt) |
+| https://www.youtube.com/watch?v=zsBU3cgAvXw | [zsBU3cgAvXw](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/zsBU3cgAvXw.T00096467.caption.srt) |
+| https://www.youtube.com/watch?v=VR88HJLFTKU | [VR88HJLFTKU](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/VR88HJLFTKU.T00096332.caption.srt) |
+| https://www.youtube.com/watch?v=7Kr_LdkmvOc | [7Kr_LdkmvOc](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/7Kr_LdkmvOc.T00096496.caption.srt) |
+| https://www.youtube.com/watch?v=dTuC3L_bQU8 | [dTuC3L_bQU8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/dTuC3L_bQU8.T00096407.caption.srt) |
+| https://www.youtube.com/watch?v=kR9xwVC36m0 | [kR9xwVC36m0](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/kR9xwVC36m0.T00096404.caption.srt) |
+| https://www.youtube.com/watch?v=a5caoZgFW_E | [a5caoZgFW_E](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/a5caoZgFW_E.T00096412.caption.srt) |
+| https://www.youtube.com/watch?v=7-ICEmHiyLs | [7-ICEmHiyLs](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/7-ICEmHiyLs.T00096355.caption.srt) |
+| https://www.youtube.com/watch?v=IdySlEhRYfg | [IdySlEhRYfg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/IdySlEhRYfg.T00096411.caption.srt) |
+| https://www.youtube.com/watch?v=x3qOwUUbXBk | [x3qOwUUbXBk](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/x3qOwUUbXBk.T00096468.caption.srt) |
+| https://www.youtube.com/watch?v=ivX0MGipG_U | [ivX0MGipG_U](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/ivX0MGipG_U.T00096331.caption.srt) |
+| https://www.youtube.com/watch?v=xfCsNzHb2Gg | [xfCsNzHb2Gg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/xfCsNzHb2Gg.T00096428.caption.srt) |
+| https://www.youtube.com/watch?v=xzAANIeX1d8 | [xzAANIeX1d8](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/xzAANIeX1d8.T00096471.caption.srt) |
+| https://www.youtube.com/watch?v=uUUEPXjVJC4 | [uUUEPXjVJC4](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/uUUEPXjVJC4.T00096378.caption.srt) |
+| https://www.youtube.com/watch?v=5jpZN0Q9lGg | [5jpZN0Q9lGg](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/5jpZN0Q9lGg.T00096350.caption.srt) |
+| https://www.youtube.com/watch?v=l4Hzx4iqgaU | [l4Hzx4iqgaU](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/l4Hzx4iqgaU.T00096470.caption.srt) |
