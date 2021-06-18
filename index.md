@@ -1,7 +1,9 @@
 以下字幕檔（.srt）為初步ASR結果，需經人工校正。
 
 如有問題請聯絡：hihidia2175@gmail.com
+
 ## 影片清單 
+
 | CDC記者會連結 | 字幕檔 (.srt) |
 |---------------------------------------------|-------------|
 | [YouTube](https://www.youtube.com/watch?v=YGNjNZpMbyM) | [YGNjNZpMbyM](https://tynnie.github.io/CDC_video_list_without_subtitles/subtitles/YGNjNZpMbyM.T00096481.caption.srt) |
